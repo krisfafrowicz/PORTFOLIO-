@@ -15,7 +15,8 @@
 }
 
 a.navbar-brand.title-icon{
-    color: gray;
+    color: purple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .title-icon{
@@ -29,14 +30,18 @@ a.navbar-brand.title-icon{
 p{
     font-size: 14px;
     color:green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 h2{
     font-weight: bold;
     font-size: 23px;
     margin-bottom: 20px;
-    color: gray;
+    color: purple;
+    font-family: 'Courier New', Courier, monospace;
 }
+
+
 
 a.font-black{
     color: gold !important;
