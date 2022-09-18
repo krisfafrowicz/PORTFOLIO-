@@ -19,6 +19,20 @@
     
 }
 
+p{
+    font-size: 14px;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+
+a.font-black{
+    color: #000 !important;
+}
+
 /***** Section *****
 ABout
 /***** End Section *****/
@@ -28,7 +42,7 @@ ABout
     max-width: 400;
     text-align: center;}
 
-#about img {
+#about .aboutimage {
     border-radius: 50%;
     width: 120px;
     margin-bottom: 10px;
@@ -68,3 +82,32 @@ ABout
 #about .icons a{
     color: black;
 }
+
+/**************
+Project
+*************/
+
+#projects{
+    margin: 60px auto;
+    width: 80%;
+}
+
+#projects h2{
+    text-align: center;
+}
+
+#projects .card img{
+    width: 100%;
+    
+}
+
+#projects .card-title{
+    font-weight: bold;
+
+}
+
+#projects.projectimage{
+    width: 20%;
+}
+
+
